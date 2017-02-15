@@ -1,0 +1,16 @@
+{
+  "name": "photontest",
+  "version": "1.0.0",
+  "description": "electron/photon/gopherjs test app",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.4.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "electron ."
+  },
+  "author": "denkhaus",
+  "license": "ISC"
+}
